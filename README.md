@@ -50,6 +50,6 @@ La extracción de tripletas SVO confirma la intención comunicativa de cada líd
 
 ## Herramientas Utilizadas
 
-* **Python 3**
-* **spaCy** (para el procesamiento lingüístico)
-* **WordCloud** y **Matplotlib** (para visualización)
+* **re**
+* **spaCy**
+* **WordCloud** y **Matplotlib**
