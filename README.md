@@ -39,7 +39,8 @@ El léxico dominante define la agenda.
 
 * **Petro:** Se enfoca en `paz`, `vida`, `pueblo`, `sociedad` y `cambio`. El discurso es humanista y de transformación social.
 * **Uribe:** Se centra en `seguridad`, `democracia`, `libertad`, `crecimiento` y `Estado`. El foco es institucional, legal y económico.
-
+<img width="790" height="427" alt="Image" src="https://github.com/user-attachments/assets/a541048d-76a6-4646-ae5a-2892739e4152" />
+<img width="790" height="427" alt="Image" src="https://github.com/user-attachments/assets/5b96c4fb-07a8-4331-8c27-2ab2ac2293fd" />
 ### 3. Argumentación (SVO)
 
 La extracción de tripletas SVO confirma la intención comunicativa de cada líder:
